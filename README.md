@@ -1,7 +1,7 @@
 Intel Edison M2X API Client
 =====================
 
-The Intel Edison can use the compatible [M2X Arduino Library](https://github.com/attm2x/m2x-arduino) to send/receive data to/from [AT&amp;T's M2X service](https://m2x.att.com/).
+The [Intel Edison](http://www.intel.com/content/www/us/en/do-it-yourself/edison.html) can use the compatible [M2X Arduino Library](https://github.com/attm2x/m2x-arduino) to send/receive data to/from [AT&amp;T's M2X service](https://m2x.att.com/).
 
 **NOTE**: Unless stated otherwise, the following instructions are specific using the Intel Edison through their [Intel Edison IDE client](http://www.intel.com/support/edison/sb/CS-035180.htm).
 
@@ -294,4 +294,4 @@ This example sends location data to M2X. Ideally a GPS device should be used her
 LICENSE
 =======
 
-This library is released under the MIT license. See [`M2XStreamClient/LICENSE`](M2XStreamClient/LICENSE) for the terms.
+This library is released under the MIT license. See [LICENSE](LICENSE) for the terms.
